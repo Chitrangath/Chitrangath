@@ -1,4 +1,4 @@
-<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybDB3MHBpdW9mZmJ3dGZkMTIwNWxrYzFwZmluMGNxZmVnMDB3dTV3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Cyberpunk Banner" width="100%">
+<img width="800" height="450" alt="banner Gif 10mb" src="https://github.com/user-attachments/assets/eafecf76-6f7d-46a6-ba4c-e9f6be635d5a" />
 
 # Chitrangath
 **Web3 & Blockchain Engineer | Smart Contract Developer**
