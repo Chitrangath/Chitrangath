@@ -1,5 +1,7 @@
-<img width="800" height="450" alt="banner Gif 10mb" src="https://github.com/user-attachments/assets/eafecf76-6f7d-46a6-ba4c-e9f6be635d5a" />
-
+<div align="centre" >
+  <img width="800" height="400" alt="banner Gif 10mb" src="https://github.com/user-attachments/assets/eafecf76-6f7d-46a6-ba4c-e9f6be635d5a" />
+</div>
+  
 # Chitrangath
 **Web3 & Blockchain Engineer | Smart Contract Developer**
 
