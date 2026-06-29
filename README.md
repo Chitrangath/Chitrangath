@@ -1,15 +1,13 @@
-<!-- Replace the URL below with your preferred aesthetic Tumblr/Giphy GIF image address -->
-<img src="![Cyberpunk Banner](https://giphy.com)" alt="Banner" width="100%">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Ym94ZXg4cXNrcXg4bXN6YTZpYndwNTh4cmN3YTFpZms0Ym95OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnP19XzE5E/giphy.gif" alt="Cyberpunk Banner" width="100%">
 
 # Chitrangath
 **Web3 & Blockchain Engineer | Smart Contract Developer**
 
-<!-- Shields.io Badges for Contact -->
 <p align="left">
   <a href="https://www.linkedin.com/in/chitrangath-chavan/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:chitrangath2003@.com">
+  <a href="mailto:chitrangath2003@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://x.com/CBChavan1" target="_blank">
@@ -18,10 +16,9 @@
 </p>
 
 ### 👨‍💻 About Me
-I'm a Web3 developer building at the intersection of Blockchain Security, Smart Contract Architecture, Web3 Full-Stack Engineering. I focus on writing secure, gas-optimized smart contracts and integrating them with scalable frontends. Passionate about solving complex problems in the EVM ecosystem and Blockchain Security
+I'm a Web3 developer building at the intersection of Blockchain Security, Smart Contract Architecture, and Web3 Full-Stack Engineering. I focus on writing secure, gas-optimized smart contracts and integrating them with scalable frontends. Passionate about solving complex problems in the EVM ecosystem and Blockchain Security.
 
 ### 🛠️ Languages & Tools
-<!-- Skillicons.dev for uniform, clean icons. Just add or remove abbreviations in the 'i=' parameter -->
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity,eth,js,ts,react,nextjs,tailwind,nodejs,git,linux&theme=dark" alt="My Skills" />
@@ -38,9 +35,7 @@ An omni-channel property tokenization protocol enabling trustless secondary mark
   * Built the client-side DApp using React, TailwindCSS, and Wagmi/RainbowKit for seamless multi-wallet abstraction, directly reading on-chain events (e.g., `PropertyRegistered`) to index and render live property states asynchronously.
 * **Impact:** Deployed the full suite of modular contracts to the Sepolia testnet, successfully abstracting away centralized escrow via trustless deposit deductions and autonomous rental termination. Validated protocol invariants and edge-cases locally using a robust Foundry testing suite.
 
-
 ### 💼 Experience & Open Source
 * Built expertise in smart contract security and automated testing (Foundry).
 * Follow professional open-source practices: code reviews, PR lifecycle management, and detailed technical documentation.
-* Currently exploring Zero-Knowledge Rollups, Security Audits and RWA
-
+* Currently exploring Zero-Knowledge Rollups, Security Audits and RWA.
