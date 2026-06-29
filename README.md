@@ -44,7 +44,3 @@ An omni-channel property tokenization protocol enabling trustless secondary mark
 * Follow professional open-source practices: code reviews, PR lifecycle management, and detailed technical documentation.
 * Currently exploring Zero-Knowledge Rollups, Security Audits and RWA
 
-
-* **X+** Web3 Projects shipped to Testnet/Mainnet
-* **X+** DSA Problems Solved (LeetCode / Codeforces)
-* **X** Hackathons Participated / Won
