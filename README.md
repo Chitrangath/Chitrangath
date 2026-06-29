@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6Ym94ZXg4cXNrcXg4bXN6YTZpYndwNTh4cmN3YTFpZms0Ym95OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggCGvnP19XzE5E/giphy.gif" alt="Cyberpunk Banner" width="100%">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybDB3MHBpdW9mZmJ3dGZkMTIwNWxrYzFwZmluMGNxZmVnMDB3dTV3ZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/source.gif" alt="Cyberpunk Banner" width="100%">
 
 # Chitrangath
 **Web3 & Blockchain Engineer | Smart Contract Developer**
@@ -21,7 +21,7 @@ I'm a Web3 developer building at the intersection of Blockchain Security, Smart 
 ### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,eth,js,ts,react,nextjs,tailwind,nodejs,git,linux&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=solidity,js,ts,react,nodejs,git,linux&theme=dark" alt="My Skills" />
   </a>
 </p>
 
